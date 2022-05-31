@@ -26,7 +26,7 @@ class YaUploader:
         return print('Ошибка загрузки')
 
 if __name__ == '__main__':
-    token = "AQAAAAAnHkVjAADLW-zHXz4qMET8o8dC7qH-gLU"
+    token = ""
     # path_to_file = "text2.txt"
     path_to_file = r'C:\Users\Екатерина\Desktop\учеба\аблон.txt'
     uploader = YaUploader(token)
